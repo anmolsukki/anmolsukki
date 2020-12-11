@@ -39,14 +39,6 @@ Hi, I'm Anmol Kumar Singh, a passionate self-taught frontEnd web developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsukki&layout=compact&theme=material-palenight" />
 </a>
 
-<!-- Github Stats -->
-<a href="https://github.com/anmolsukki/anmolsukki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolsukki&repo=anmolsukki&theme=material-palenight" />
-</a> 
-
-
-![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolsukki)
-
 <!--
 Comments goes here
 - 💬 Ask me about ...
@@ -55,4 +47,9 @@ Comments goes here
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- Top Repository -->
+<a href="https://github.com/anmolsukki/anmolsukki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolsukki&repo=anmolsukki&theme=material-palenight" />
+</a> 
 -->
