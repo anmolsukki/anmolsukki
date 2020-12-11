@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Anmol Kumar Singh, a passionate self-taught frontEnd web developer.
+I'm Anmol Kumar Singh, a passionate self-taught frontEnd web developer.
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning NodeJs
 
