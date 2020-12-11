@@ -10,8 +10,8 @@
   <img align="left" alt="Anmol Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<!-- Twitter -->
-<a href="https://discord.com/channels/@mer">
+<!-- Discord -->
+<a href="https://discord.gg/eEmARGsh">
   <img align="left" alt="Anmol Singh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
