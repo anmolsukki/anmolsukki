@@ -1,4 +1,4 @@
-### Hi there, I'm [Anmol!](https://www.linkedin.com/in/anmolsukki/) 👋
+### Hi there, I'm [Anmol](https://www.linkedin.com/in/anmolsukki/) 👋
 
 <!-- CodeSandbox -->
 <a href="https://codesandbox.io/u/anmolsukki">
