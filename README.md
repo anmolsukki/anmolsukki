@@ -14,9 +14,6 @@
 [![slack](https://aleen42.github.io/badges/src/slack.svg)](https://slack.com/)&nbsp;&nbsp;&nbsp;
 [![stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/)
 
-<br />
-<br />
-
 I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning NodeJs
