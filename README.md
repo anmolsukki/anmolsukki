@@ -29,7 +29,8 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 [![webpack](https://aleen42.github.io/badges/src/webpack.svg)](https://webpack.js.org/)&nbsp;&nbsp;&nbsp;
 [![eslint](https://aleen42.github.io/badges/src/eslint.svg)](https://eslint.org/)&nbsp;&nbsp;&nbsp;
 [![node](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;
-<a href="https://graphql.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></a>&nbsp;&nbsp;&nbsp;
+[![heroku](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;&nbsp;&nbsp;
+[![heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;&nbsp;&nbsp;
 [![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://code.visualstudio.com/)
 
 <!-- Github Stats -->
