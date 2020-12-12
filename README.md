@@ -10,12 +10,12 @@
   <img align="left" alt="Anmol Singh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-[![Linkedin](https://img.shields.io/badge/-anmolsukki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsukki/)](https://www.linkedin.com/in/anmolsukki/)&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsukki/)](https://www.linkedin.com/in/anmolsukki/)&nbsp;&nbsp;&nbsp;
 [![facebook](https://aleen42.github.io/badges/src/facebook.svg)](https://www.facebook.com/Anmolsukki/)&nbsp;&nbsp;&nbsp;
 [![twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/anmolsukki)&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anmolsukki/)&nbsp;&nbsp;&nbsp;
 [![slack](https://aleen42.github.io/badges/src/slack.svg)](https://join.slack.com/t/anmolsukki/shared_invite/zt-k7cfber5-JVl_kGaNdNqvwsMADPiUWg)&nbsp;&nbsp;&nbsp;
-[![stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/10825957/anmol-kumar-singh)&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/github/followers/anmolsukki?label=follow&style=social)](https://github.com/anmolsukki)
+[![stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/10825957/anmol-kumar-singh)
 
 I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 - 🔭 I’m currently working on ReactJs
