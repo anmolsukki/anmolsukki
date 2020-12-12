@@ -28,7 +28,11 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 [![typescript](https://aleen42.github.io/badges/src/typescript.svg)](https://www.typescriptlang.org/)&nbsp;&nbsp;&nbsp;
 [![webpack](https://aleen42.github.io/badges/src/webpack.svg)](https://webpack.js.org/)&nbsp;&nbsp;&nbsp;
 [![eslint](https://aleen42.github.io/badges/src/eslint.svg)](https://eslint.org/)&nbsp;&nbsp;&nbsp;
+[![prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)&nbsp;&nbsp;&nbsp;
 [![node](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;
+[![mongo](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;&nbsp;&nbsp;
+[![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)&nbsp;&nbsp;&nbsp;
+[![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;&nbsp;
 [![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;&nbsp;&nbsp;
 [![heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;&nbsp;&nbsp;
 [![sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)&nbsp;&nbsp;&nbsp;
