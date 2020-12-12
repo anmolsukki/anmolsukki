@@ -11,7 +11,7 @@
 </a>
 
 <!-- Discord -->
-<a href="https://discord.gg/eEmARGsh">
+<a href="https://discord.gg/zMkSphwHjE">
   <img align="left" alt="Anmol Singh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
