@@ -6,10 +6,8 @@
 </a>
 
 
-[![twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/anmolsukki)
-[![slack](https://aleen42.github.io/badges/src/slack.svg)](https://slack.com/)
-
-<!-- Discord -->
+[![twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/anmolsukki)&nbsp;&nbsp;&nbsp;
+[![slack](https://aleen42.github.io/badges/src/slack.svg)](https://slack.com/)&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/zMkSphwHjE">
   <img align="left" alt="Anmol Singh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
