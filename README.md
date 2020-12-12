@@ -12,8 +12,8 @@
 
 [![facebook](https://aleen42.github.io/badges/src/facebook.svg)](https://www.facebook.com/Anmolsukki/)&nbsp;&nbsp;&nbsp;
 [![twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/anmolsukki)&nbsp;&nbsp;&nbsp;
-[![slack](https://aleen42.github.io/badges/src/slack.svg)](https://slack.com/)&nbsp;&nbsp;&nbsp;
-[![stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/)
+[![slack](https://aleen42.github.io/badges/src/slack.svg)](https://join.slack.com/t/anmolsukki/shared_invite/zt-k7cfber5-JVl_kGaNdNqvwsMADPiUWg)&nbsp;&nbsp;&nbsp;
+[![stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/10825957/anmol-kumar-singh)
 
 I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 - 🔭 I’m currently working on ReactJs
@@ -25,11 +25,11 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 [![router](https://aleen42.github.io/badges/src/router.svg)](https://reacttraining.com/react-router/)&nbsp;&nbsp;&nbsp;
 [![redux](https://aleen42.github.io/badges/src/redux.svg)](https://redux.js.org/)&nbsp;&nbsp;&nbsp;
 [![javascript](https://aleen42.github.io/badges/src/javascript.svg)](https://developer.mozilla.org/bm/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;
-[![typescript](https://aleen42.github.io/badges/src/typescript.svg)](https://www.typescriptlang.org/docs/home.html)&nbsp;&nbsp;&nbsp;
+[![typescript](https://aleen42.github.io/badges/src/typescript.svg)](https://www.typescriptlang.org/)&nbsp;&nbsp;&nbsp;
 [![webpack](https://aleen42.github.io/badges/src/webpack.svg)](https://webpack.js.org/)&nbsp;&nbsp;&nbsp;
 [![eslint](https://aleen42.github.io/badges/src/eslint.svg)](https://eslint.org/)&nbsp;&nbsp;&nbsp;
 [![node](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>&nbsp;&nbsp;&nbsp;
+<a href="https://graphql.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></a>&nbsp;&nbsp;&nbsp;
 [![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://code.visualstudio.com/)
 
 <!-- Github Stats -->
