@@ -29,8 +29,11 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 [![webpack](https://aleen42.github.io/badges/src/webpack.svg)](https://webpack.js.org/)&nbsp;&nbsp;&nbsp;
 [![eslint](https://aleen42.github.io/badges/src/eslint.svg)](https://eslint.org/)&nbsp;&nbsp;&nbsp;
 [![node](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;
-[![heroku](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;&nbsp;&nbsp;
+[![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;&nbsp;&nbsp;
 [![heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;&nbsp;&nbsp;
+[![sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)&nbsp;&nbsp;&nbsp;
+[![styled-component](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)&nbsp;&nbsp;&nbsp;
+[![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;
 [![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://code.visualstudio.com/)
 
 <!-- Github Stats -->
