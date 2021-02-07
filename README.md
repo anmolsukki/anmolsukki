@@ -36,6 +36,7 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)&nbsp;&nbsp;&nbsp;
 [![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;&nbsp;
 [![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;&nbsp;&nbsp;
+[![ionic](https://img.shields.io/badge/-Ionic-4a8bfc?style=square&logo=ionic&logoColor=black)](https://ionicframework.com/docs/react)&nbsp;&nbsp;&nbsp;
 [![heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;&nbsp;&nbsp;
 [![sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)&nbsp;&nbsp;&nbsp;
 [![styled-component](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)&nbsp;&nbsp;&nbsp;
