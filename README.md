@@ -26,6 +26,7 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 [![react](https://aleen42.github.io/badges/src/react.svg)](https://reactjs.org/)&nbsp;&nbsp;&nbsp;
 [![router](https://badges.aleen42.com/src/react-router.svg)](https://reacttraining.com/react-router/)&nbsp;&nbsp;&nbsp;
 [![redux](https://aleen42.github.io/badges/src/redux.svg)](https://redux.js.org/)&nbsp;&nbsp;&nbsp;
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)&nbsp;&nbsp;&nbsp;
 [![javascript](https://aleen42.github.io/badges/src/javascript.svg)](https://developer.mozilla.org/bm/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;
 [![typescript](https://aleen42.github.io/badges/src/typescript.svg)](https://www.typescriptlang.org/)&nbsp;&nbsp;&nbsp;
 [![webpack](https://aleen42.github.io/badges/src/webpack.svg)](https://webpack.js.org/)&nbsp;&nbsp;&nbsp;
