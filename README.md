@@ -54,6 +54,10 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsukki&layout=compact&theme=material-palenight" />
 </a>
 
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anmolsukki&hide_border=true)
+
+
 <!--
 Comments goes here
 - 💬 Ask me about ...
