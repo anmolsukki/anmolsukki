@@ -55,7 +55,7 @@ I'm Anmol Kumar Singh, a passionate self taught front end web developer.
 </a>
 
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anmolsukki&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anmolsukki&hide_border=true&theme=material-palenight)
 
 
 <!--
